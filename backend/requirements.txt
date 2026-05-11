@@ -1,0 +1,7 @@
+google-adk[a2a]
+google-genai
+fastapi
+uvicorn[standard]
+chromadb
+python-dotenv
+httpx
